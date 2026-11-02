@@ -1,0 +1,5 @@
+PROJECT BASE X
+
+Project exo build by PBX VERSION 0.1. Contact +227 91 33 43 83 for review.
+
+Copy the code on github.com/hamadouabdoul/pbx.sh
