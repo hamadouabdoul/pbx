@@ -12,8 +12,8 @@ touch CmakeLists.txt CMakePresets.json .clang-tidy .gitignore README.md pbx.txt
 echo "
 cmake_minimum_required(VERSION 3.25)
 project($project_name VERSION 1.0 LANGUAGES CXX)
-add_executable(bulletin main.cpp moyenne.cpp)
-target_compile_features(bulletin PRIVATE cxx_std_23)
+add_executable($project_name )
+target_compile_features($project_name PRIVATE cxx_std_23)
 " >> CMakeLists.txt
 
 #Contenue de CmakePresets
